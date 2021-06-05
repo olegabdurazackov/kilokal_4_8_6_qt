@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/act">
+        <file alias="dp">pic/dp.bmp</file>
+        <file alias="quit">pic/quit.bmp</file>
+        <file alias="food">pic/food.bmp</file>
+        <file alias="pot">pic/pot.bmp</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>data/kkal.db</file>
+    </qresource>
+    <qresource prefix="/libs">
+        <file>libs/intchar.h</file>
+        <file>libs/intchar.cpp</file>
+    </qresource>
+</RCC>
